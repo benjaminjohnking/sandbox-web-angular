@@ -1,6 +1,6 @@
-# demo-web-angular
+# sandbox-web-angular
 
-Angular project for demonstration and experimentation purposes.
+Angular web sandbox
 
 ## Roadmap
 
