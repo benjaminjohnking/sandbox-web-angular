@@ -11,6 +11,7 @@ import { HomePageComponent } from './components/home-page/home-page.component';
 import { EducationPageComponent } from './components/education-page/education-page.component';
 import { ExperiencePageComponent } from './components/experience-page/experience-page.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { AppDataService } from './services/app-data.service';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     MatDividerModule,
     MatToolbarModule
   ],
-  providers: [],
+  providers: [AppDataService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
