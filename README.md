@@ -1,10 +1,6 @@
 # sandbox-web-angular
 
-Angular web sandbox
+Angular web sandbox for personal experimentation
 
-## Roadmap
-
-- Component classes for enriching pages
-- Service classes for providing data
-- RESTful API client for retrieving data
-- Unit and integration tests
+* To run, execute command `ng serve -o`
+* To build, execute command `ng build --base-href=/sandbox-web-angular/`
