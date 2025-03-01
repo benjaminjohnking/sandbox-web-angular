@@ -1,6 +1,13 @@
 # sandbox-web-angular
 
-Angular web sandbox for personal experimentation
+Angular web sandbox project
 
-* To run, execute command `ng serve -o`
-* To build, execute command `ng build --base-href=/sandbox-web-angular/`
+## What this project isn't
+- Polished product intended for public use
+- Demonstration of comprehensive knowlege
+- Example of best practices
+
+## What this project is
+- Crude sandbox intended for private use
+- Demonstration of continued learning
+- Sample of personal experimentation
